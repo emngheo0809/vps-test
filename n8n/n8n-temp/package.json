@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "n8n": "file:../n8n-1.92.2.tgz"
+  }
+}
